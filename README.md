@@ -46,6 +46,9 @@ To conduct another search, you will want to to hit the `Clear Table` button to c
 
 ![clear_table](https://github.com/hastyjr/UFOs/blob/main/static/images/clear_table.png)
 
+You'll notice that when you hit the `Clear Table` button, the text boxes will clear out and the table will reset to to show all entries by default. 
+
+![default_table](https://github.com/hastyjr/UFOs/blob/main/static/images/default_table.png)
 
 ## Summary
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
