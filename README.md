@@ -5,29 +5,18 @@ The purpose of this project is to assist Dana in meeting her goal to create an i
 
 ### __Requirements__
 She essentially needs to build two things: the webpage that will allow users to view the data `(HTML)` and a dynamic table that will present it `(JavaScript)`.
-
-### __Wants__
-Dana wants to storyboard her website to have an idea of what her readers will see when they view the final 
-product. 
-
-Storyboarding is incredibly useful in determining the layout of a webpage, so it's important to complete this step early in order to save time later. It's like building a house. You need to know how it's all going to fit together before you start building!
-
-
-
 ## Results
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria.
-
-Read below to for a tutorial on how to use the new webpage using specific search criteria. 
+Read below on how to use the new webpage to filter UFO sightings using specific search criteria. 
 
 ### __Search Filter Criteria__ 
-Assuming you want to view any entries for stitings under the following criteria:
+Assume you want to view all entries for stitings with the following criteria:
 * Date: `1/1/2010`
 * City: `el cajon`
 * State: `ca`
 * Country: `us`
 * Shape (keyword): `triangle`
 
-You will navigate to to the filter fields and enter the above mentioned criteria. 
+You will navigate to the filter fields and enter the above mentioned criteria. 
 
 Your filter should look like this:
 
@@ -41,7 +30,14 @@ The following results with will appear:
 
 You'll notice that there were two entries for UFO sightings on this date with the above mentioned search criteria. 
 
-### __Clear Search Filter_Table_
+The table provides data in all these categories and adds more information within the `Comments` column. 
+
+In this case, there are two different entries and comments for our search criteria:
+
+1. _"On New Years Eve I went outside to hear the celebration and fireworks in my neighbor hood. And noticed 3 red lights above my house and..."_
+2. _"3 Red objects hovering over El Cajon CA"_
+
+### __Clear Search Filter Table__
 To conduct another search, you will want to to hit the `Clear Table` button to clear out all the search criteria and start fresh. 
 
 ![clear_table](https://github.com/hastyjr/UFOs/blob/main/static/images/clear_table.png)
