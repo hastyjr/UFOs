@@ -19,7 +19,7 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 Read below to for a tutorial on how to use the new webpage using specific search criteria. 
 
-### __Search Criteria__ 
+### __Search Filter Criteria__ 
 Assuming you want to view any entries for stitings under the following criteria:
 * Date: `1/1/2010`
 * City: `el cajon`
@@ -27,11 +27,15 @@ Assuming you want to view any entries for stitings under the following criteria:
 * Country: `us`
 * Shape (keyword): `triangle`
 
-You will navigate to to the filter fields and enter the above mentione criteria. Your filter should look like this:
+You will navigate to to the filter fields and enter the above mentioned criteria. 
+
+Your filter should look like this:
 
 ![filter_criteria](https://github.com/hastyjr/UFOs/blob/main/static/images/filter_criteria.png)
+### __Search Filter Results__
+Once you have entered the criteria, you will select the `Filter Table` button.
 
-Once you have entered the criteria, you will select the `Filter Table` button. The following results with will appear:
+The following results with will appear:
 
 ![filter_results](https://github.com/hastyjr/UFOs/blob/main/static/images/filter_results.png)
 
