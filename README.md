@@ -47,7 +47,6 @@ You'll notice that when you hit the `Clear Table` button, the text boxes will cl
 ![default_table](https://github.com/hastyjr/UFOs/blob/main/static/images/default_table.png)
 
 ## Summary
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
 One of the drawbacks of this new design is how the filter on the website is not completely accurtate. While it does filter on some attributes, it does not filter out entries that do not apply to the filter. 
 
