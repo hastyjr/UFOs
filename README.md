@@ -17,10 +17,23 @@ Storyboarding is incredibly useful in determining the layout of a webpage, so it
 ## Results
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria.
 
+Read below to for a tutorial on how to use the new webpage using specific search criteria. 
 
+### __Search Criteria__ 
+Assuming you want to view any entries for stitings under the following criteria:
+* Date: `1/1/2010`
+* City: `el cajon`
+* State: `ca`
+* Country: `us`
+* Shape (keyword): `triangle`
 
-* Use images of your webpage during the filtering process to support your explanation.
+You will navigate to to the filter fields and enter the above mentione criteria. Your filter should look like this:
 
+![filter_criteria](https://github.com/hastyjr/UFOs/blob/main/static/images/filter_criteria.png)
+
+Once you have entered the criteria, you will select the `Filter Table` button. The following results with will appear:
+
+![filter_results](https://github.com/hastyjr/UFOs/blob/main/static/images/filter_results.png)
 
 
 ## Summary
