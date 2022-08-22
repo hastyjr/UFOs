@@ -42,7 +42,9 @@ The following results with will appear:
 You'll notice that there were two entries for UFO sightings on this date with the above mentioned search criteria. 
 
 ### __Clear Search Filter_Table_
-To conduct another search, you can hit the `reset 
+To conduct another search, you will want to to hit the `Clear Table` button to clear out all the search criteria and start fresh. 
+
+![clear_table](https://github.com/hastyjr/UFOs/blob/main/static/images/clear_table.png)
 
 
 ## Summary
