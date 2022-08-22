@@ -32,12 +32,17 @@ You will navigate to to the filter fields and enter the above mentioned criteria
 Your filter should look like this:
 
 ![filter_criteria](https://github.com/hastyjr/UFOs/blob/main/static/images/filter_criteria.png)
-### __Search Filter Results__
+### __Search Filter Table Results__
 Once you have entered the criteria, you will select the `Filter Table` button.
 
 The following results with will appear:
 
 ![filter_results](https://github.com/hastyjr/UFOs/blob/main/static/images/filter_results.png)
+
+You'll notice that there were two entries for UFO sightings on this date with the above mentioned search criteria. 
+
+### __Clear Search Filter_Table_
+To conduct another search, you can hit the `reset 
 
 
 ## Summary
