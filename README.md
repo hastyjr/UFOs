@@ -2,7 +2,15 @@
 
 ## Overview of Project
 Explain the purpose of this analysis.
+Dana's goal is to create an interactive webpage that allows readers to parse the data around UFO sightings.
+So, she essentially needs to build two things: the webpage that will allow users to view the data (HTML) and a dynamic table that will present it (JavaScript).
 
+Dana wants to storyboard her website to have an idea of what her readers will see when they view the final 
+product. 
+
+Storyboarding is incredibly useful in determining the layout of a webpage, so it's important to complete this step early in order to save time later. It's like building a house. You need to know how it's all going to fit together before you start building!
+
+Once the template has been created, Dana can begin to code the JavaScript portion by first importing the data and then referencing it with a variable.
 
 ## Overview of Project
 
